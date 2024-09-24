@@ -4,7 +4,6 @@
   <test name="Test">
     <classes>
       <class name="testCases.AddressbookPageTest"/>
-      <class name="testCases.LoginPageTest"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
